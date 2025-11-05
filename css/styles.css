@@ -1,3 +1,11 @@
 h1, h2, h3 {color:rgb(80, 0, 80)}
 
 p {font-family:Georgia, 'Times New Roman', Times, serif;}
+
+header, footer{border-style:solid; border-color:blueviolet}
+
+nav{border-style:solid; border-color:chartreuse}
+
+main{border-style:solid; border-color:aqua}
+
+section{border-style:solid; border-color:brown}
